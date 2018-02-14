@@ -1,0 +1,27 @@
+body{
+    background-color: aliceblue;
+    color: rgb(42, 136, 42);
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+button{
+    border-radius: 10px 20px;
+    color: green;
+    margin-left: 50px;
+    padding: 2px 15px;
+}
+nav{
+    margin-left: 300px;
+}
+input , select{
+    color: rgb(9, 66, 9);
+    border-radius: 10px 20px;
+    font-size: 30px;
+}
+
+.fundo{
+  margin-top: 0px;
+    padding-top: 10px;
+    background-color: green;
+    border-radius: 10px 30px;
+    
+}
