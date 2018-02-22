@@ -9,6 +9,10 @@ button{
     margin-left: 50px;
     padding: 2px 15px;
 }
+button:hover{
+  margin-top: 2px;
+  color: blue;
+}
 nav{
     margin-left: 300px;
 }
